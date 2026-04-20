@@ -1,11 +1,12 @@
 Welcome to ESE 144! In this github repo, you can find jupyter notebooks and python environments that we will be using in class.
 
 ### Binder
-Some of the activities we do in class can be remotely on binder. For those, follow the link:
+Some of the activities we do in class can be completed remotely using this awesome tool called Binder. For those, follow the link:  
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oalcabes/ESE144-2026/main)
 
 ### Getting Started Locally
-Not all of the activities can be ran on binder. For those, you need to set up your own local enviornment.
+Not all of the activities can be ran on Binder. For those, you need to set up your own local enviornment.
 - install [Miniconda](https://www.anaconda.com/docs/getting-started/miniconda/main) or [Anaconda](https://www.anaconda.com/)
 - install [git](https://git-scm.com/install/)
 
